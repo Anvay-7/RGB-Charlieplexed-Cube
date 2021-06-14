@@ -1,6 +1,7 @@
 # RGB-Charlieplexed-Cube
 
-Drive link for videos and pics:https://drive.google.com/drive/folders/19HEllqTeNNRnMAUlORyuMgxC3-3JILuz?usp=sharing
+Drive link for videos and pics:
+https://drive.google.com/drive/folders/19HEllqTeNNRnMAUlORyuMgxC3-3JILuz?usp=sharing
 
 The .ino file is modified to integrate with bluetooth control. Have also added letter animations along with few other animations.
 The basic app to control this was made with Kodular.
