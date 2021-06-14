@@ -8,3 +8,7 @@ I used 82 ohm resistors on each of the 16 microcontroller outputs to solve the i
 The onboard Pin 13 LED gave problems and hence changed that pin to A4 of the Nano in the mappings.h file of the original project. 
 
 Reference: https://aglick.com/charliecube.html
+
+
+
+![repository-open-graph-template](https://user-images.githubusercontent.com/66525099/121854114-5dfd0a80-cd0f-11eb-896c-4b82e8eb97b5.png)
